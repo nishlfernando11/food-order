@@ -54,6 +54,11 @@ const cartReducer = (prevState, action) => {
             totalAmount: prevState.totalAmount - (removedItem.price * removedItem.amount)
         };
 
+    } else if(action.type = 'CLEAR_CART') {
+        return {
+            items: [],
+            totalAmount: 0
+        }
     }
     return initialCartState;
 
@@ -67,6 +72,8 @@ const CartContext = React.createContext({
     removeItem: (id) => {
     },
     deleteItem: (id) => {
+    },
+    clearCart: () => {
     }
 });
 
@@ -88,13 +95,18 @@ export const CartContextProvider = props => {
         cartDispatcher({type: 'DELETE_FROM_CART', item: {id}});
     };
 
+    const clearCartHandle = () => {
+        cartDispatcher({type: 'CLEAR_CART'});
+    };
+
 
     const cartContext = {
         items: cartState.items,
         totalAmount: cartState.totalAmount,
         addItem: addToCartHandle,
         removeItem: removeFromCartHandle,
-        deleteItem: deleteFromCartHandle
+        deleteItem: deleteFromCartHandle,
+        clearCart: clearCartHandle,
     };
 
     return (<CartContext.Provider

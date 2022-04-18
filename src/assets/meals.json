@@ -1,0 +1,40 @@
+{
+  "meals": [
+    {
+      "id": "c1",
+      "name": "Moss Burger",
+      "description": "Vegetarian burger with moss and vege patty",
+      "price": 6.5
+    },
+    {
+      "id": "c2",
+      "name": "Moss Wrap",
+      "description": "Vegetarian wrap with moss and Quorn filling",
+      "price": 4.1
+    },
+    {
+      "id": "c3",
+      "name": "Chicken Wrap",
+      "description": "Chicken wrap with vegetables and cheese",
+      "price": 12.5
+    },
+    {
+      "id": "c4",
+      "name": "Chicken Burger",
+      "description": "Chicken burger with vegetables and cheese",
+      "price": 20.5
+    },
+    {
+      "id": "c5",
+      "name": "Chicken Rice",
+      "description": "Chicken rice with vegetables and cheese",
+      "price": 21.5
+    },
+    {
+      "id": "c6",
+      "name": "Egg Rice",
+      "description": "Egg rice with vegetables and cheese",
+      "price": 10.5
+    }
+  ]
+}
