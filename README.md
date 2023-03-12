@@ -71,11 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Snapshots
 Home page
-![Screenshot 2023-03-12 154346](https://user-images.githubusercontent.com/8665803/224531342-4a8c3502-a24f-4232-b920-35cbe5e0d4c1.png)
+![Meals web - Home](https://user-images.githubusercontent.com/8665803/224531559-7d6536e0-bbfa-4b49-9ec6-4a88822cb870.png)
 
 Cart layout
-![Screenshot 2023-03-12 154511](https://user-images.githubusercontent.com/8665803/224531357-4b40060d-8dc6-4dc8-acfd-b78f1fd24099.png)
+![Meals web - Cart](https://user-images.githubusercontent.com/8665803/224531560-b08e7eb0-b66b-4c48-a0c4-fc2be6792251.png)
 
 Order layout
-![Screenshot 2023-03-12 154527](https://user-images.githubusercontent.com/8665803/224531382-f6e0f604-8ab4-4d8d-89e9-61f50e046b02.png)
+![Meals web - Order](https://user-images.githubusercontent.com/8665803/224531568-7460275b-45bb-4f44-8b2f-b5ae43d7a6bf.png)
+
 
