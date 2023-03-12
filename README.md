@@ -1,6 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# About Project
+This is a responsive e-commerce food order web application.
+Features:
+  - Listing meals from a remote database.
+  - Cart functionality, add meals, remove meals, change quantity
+  - Order submit or Checkout functionality by storing orders in the database.
 
 ## Available Scripts
 
