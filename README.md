@@ -5,6 +5,16 @@ Features:
   - Cart functionality, add meals, remove meals, change quantity
   - Order submit or Checkout functionality by storing orders in the database.
 
+### Snapshots
+Home page
+![Meals web - Home](https://user-images.githubusercontent.com/8665803/224531559-7d6536e0-bbfa-4b49-9ec6-4a88822cb870.png)
+
+Cart layout
+![Meals web - Cart](https://user-images.githubusercontent.com/8665803/224531560-b08e7eb0-b66b-4c48-a0c4-fc2be6792251.png)
+
+Order layout
+![Meals web - Order](https://user-images.githubusercontent.com/8665803/224531568-7460275b-45bb-4f44-8b2f-b5ae43d7a6bf.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -71,15 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Snapshots
-Home page
-![Meals web - Home](https://user-images.githubusercontent.com/8665803/224531559-7d6536e0-bbfa-4b49-9ec6-4a88822cb870.png)
-
-Cart layout
-![Meals web - Cart](https://user-images.githubusercontent.com/8665803/224531560-b08e7eb0-b66b-4c48-a0c4-fc2be6792251.png)
-
-Order layout
-![Meals web - Order](https://user-images.githubusercontent.com/8665803/224531568-7460275b-45bb-4f44-8b2f-b5ae43d7a6bf.png)
-
 
