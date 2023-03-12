@@ -1,4 +1,4 @@
-# About Project
+# About Project: Meals
 This is a responsive e-commerce food order web application.
 Features:
   - Listing meals from a remote database.
